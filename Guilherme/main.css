@@ -1,0 +1,43 @@
+body
+{
+   background-image: url(digital.jpg)
+}
+.login
+{
+    background-color: floralwhite;
+    color:dodgerblue;
+    width: 450px;
+    height: 400px;
+    margin:100px 0 0 480px;
+    text-align: center;
+    border-radius: 20px;
+    
+}
+.login input
+{
+  display: block;
+  margin: auto;
+  width: 85%;
+  border-radius: 20px;
+  font-size: 20px;
+  color:black;
+    
+    
+}
+.login label
+{
+    display: block;
+    padding: 10px 10px 5px 15px;
+    font-size: 30px;
+    color: black;
+    
+}
+    
+}
+.login img
+{
+ display: block;
+ border: 4px;
+    
+    
+}
