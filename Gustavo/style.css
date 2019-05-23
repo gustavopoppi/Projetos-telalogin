@@ -1,0 +1,43 @@
+
+        .fundo{
+            width: 1520px;
+            height: 695px;
+            background-image: url(imagens/fundo.jpg);
+        }
+        .quadrado{
+            width: 500px;
+            height: 500px;
+            border: 50px;
+            position: absolute;
+            left: 35%;
+            top: 15%;
+            border: 5px solid;
+            border-radius: 5px;
+        }
+        .infos{
+            margin-left: 170px;
+            margin-top: 20px;
+        }
+        .logo{
+            border: 2px solid;
+            border-radius: 150px;
+            color: lightblue;
+        }
+        .texto{
+            margin-left: 68px;
+        }
+        .tamanho{
+            width: 170px;        
+        }
+        .botao{
+            margin-left: 60px;
+            font-size: 20px;
+        }
+        .esqueceu{
+            font-size: 25px;
+        }
+        .cadastro{
+            font-size: 25px;
+            margin-left: 50px;
+        }
+
